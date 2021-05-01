@@ -6,7 +6,8 @@
  * I acknowledge all content contained herein, excluding template or example
  * code is my own original work.
  *
- *  Demo Link: https://youtu.be/cIKPBLCcRFM 
+ *  Demo Link: https://youtu.be/TZFoOqrGjMc
+ *  Previous Exercise 2: https://youtu.be/ltT5z-elXlY
  */
 #include <avr/io.h>
 #include <avr/interrupt.h>
