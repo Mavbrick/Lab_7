@@ -14,6 +14,7 @@
 #include "simAVRHeader.h"
 #endif
 
+//Correction to video, max is when its just exposed to light, no flashlight or hand
 //min w/hand
 //max w/o hand
 void ADC_init() {
